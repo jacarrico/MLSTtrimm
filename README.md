@@ -7,7 +7,7 @@ The goal of this scripts is to provide internal trimming patterns as IUPAC codes
 
 ##Usage##
 
-`MLST_trimpattern.py <fasta_filename> <threshold (0-1)> <pattern size>``
+MLST_trimpattern.py <fasta_filename> <threshold (0-1)> <pattern size> 
 
 ##Description##
 
